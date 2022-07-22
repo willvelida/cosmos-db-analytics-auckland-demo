@@ -1,0 +1,1 @@
+# cosmos-db-analytics-auckland-demo
